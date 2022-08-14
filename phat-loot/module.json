@@ -11,27 +11,36 @@
             "name": "phat-art-objects",
             "label": "Art Objects",
             "path": "./packs/phat-art-objects.db",
-            "entity": "Item"
+            "entity": "Item",
+			"system": "dnd5e",
+			"module": "phat-loot"
         },
         {
             "name": "phat-gemstones",
             "label": "Gemstones",
             "path": "./packs/phat-gemstones.db",
-            "entity": "Item"
+            "entity": "Item",
+			"system": "dnd5e",
+			"module": "phat-loot"
         },
         {
             "name": "phat-magic-items",
             "label": "Magical",
             "path": "./packs/phat-magic-items.db",
-            "entity": "Item"
+            "entity": "Item",
+			"system": "dnd5e",
+			"module": "phat-loot"
         },
         {
             "name": "phat-roll-tables",
             "label": "Loot Roll Tables",
             "path": "./packs/phat-roll-tables.db",
-            "entity": "RollTable"
+            "entity": "RollTable",
+			"system": "dnd5e",
+			"module": "phat-loot"
         }
     ],
+	"url": "https://github.com/sobenz/foundryvtt-modules",
     "manifest": "https://raw.githubusercontent.com/sobenz/foundryvtt-modules/main/phat-loot/module.json",
-    "download": "https://raw.githubusercontent.com/sobenz/foundryvtt-modules/main/phat-loot/1.0.0.zip"
+    "download": "https://raw.githubusercontent.com/sobenz/foundryvtt-modules/main/phat-loot/phat-loot.zip"
   }
