@@ -54,7 +54,7 @@
 			"entity": "RollTable",
             "system": "dnd5e",
 			"module": "phat-loot"
-		},
+		}
 	],
 	"url": "https://github.com/sobenz/foundryvtt-modules",
 	"download": "https://raw.githubusercontent.com/sobenz/foundryvtt-modules/main/phat-loot/1.0.0.zip",
