@@ -15,6 +15,11 @@
             "name": "better-rolltables",
             "type": "module",
             "manifest": "https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json"
+        },
+        {
+            "name": "compendium-folders",
+            "type": "module",
+            "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/09x-update/module.json"
         }
     ],
     "packs": [
